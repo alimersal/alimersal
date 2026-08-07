@@ -8,7 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mersal-7116641bb)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimersal)
-[![GitHub followers](https://img.shields.io/github/followers/alimersal?style=for-the-badge&logo=github&label=Followers&color=6C63FF)](https://github.com/alimersal?tab=followers)
+[![Gmail](https://img.shields.io/badge/ali.m.mersal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.m.mersal@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Eng_Ali_Mersal)
 
 </div>
 
