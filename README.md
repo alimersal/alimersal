@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mersal-7116641bb)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimersal)
-[![Profile Views](https://komarev.com/ghpvc/?username=alimersal&color=6C63FF&style=for-the-badge&label=Profile+Views)](https://github.com/alimersal)
+[![GitHub followers](https://img.shields.io/github/followers/alimersal?style=for-the-badge&logo=github&label=Followers&color=6C63FF)](https://github.com/alimersal?tab=followers)
 
 </div>
 
